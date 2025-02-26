@@ -41,8 +41,10 @@ A complete log of the project's development can be found in **PROJECT_LOG.md**.
 git clone https://github.com/yourusername/resume-screener.git
  
 2️⃣ Install dependencies:
+```bash
 pip install -r requirements.txt
 
+```bash
 3️⃣ Run the application:
 streamlit run frontend/app.py
 
